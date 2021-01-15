@@ -1,2 +1,2 @@
 # DaF
-Texte, Tabelle, o.Ä., um Deutsch zu üben.
+Texte, Tabelle, usw., um Deutsch zu üben.
