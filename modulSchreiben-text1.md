@@ -15,7 +15,7 @@ Schreiben Sie mindestens 150 Wörter.
 
 Zeit: 40 Minuten
 
-### Notitzen
+### Notizen
 
 * Meinung
     - Als erstes Argument bin ich nicht ganz dafür, weil andere Verkehrsmittel benutzbar sind.
