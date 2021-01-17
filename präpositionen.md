@@ -52,12 +52,6 @@ _der Beste_ gehört zur n-Deklination
 
 ---
 
-**warten auf + Dat**
-
-Wir **warten** schon eine halbe Stunde **auf dem Kellner**.
-
----
-
 **zufolge + Dat**
 
 **Diesem Artikel zufolge** soll Schokolade sehr gesund sein.
