@@ -1,24 +1,24 @@
 # Präpositionen B2
 
-**Anhand + Gen**
+**anhand + Gen**
 
 Ich erkläre es dir **anhand eines Beispiels**.
 
 ---
 
-**Gemäß + Dat**
+**gemäß + Dat**
 
 Ein guter Beamter handelt immer **gemäß den Vorschriften**.
 
 ---
 
-**Entlang + Akk**
+**entlang + Akk**
 
 Sie fuhr mit ihrem Fahrrad **den Weg entlang**.
 
 ---
 
-**Entlang + Gen/Dat**
+**entlang + Gen/Dat**
 
 **Entlang des Flusses** wachsen schöne Blumen.
 
@@ -26,25 +26,25 @@ Sie fuhr mit ihrem Fahrrad **den Weg entlang**.
 
 ---
 
-**An (temporal) + Dat**
+**an (temporal) + Dat**
 
 **An den Wochenenden** kocht sie gerne.
 
 ---
 
-**Unweit + Gen**
+**unweit + Gen**
 
 Unser Haus steht **unweit des alten Stadttors**.
 
 ---
 
-**Anstelle + Gen**
+**anstelle + Gen**
 
 **Anstelle des versprochenen Fahrrads** schenkten mir meine Eltern eine Puppe.
 
 ---
 
-**Außer + Dat**
+**außer + Dat**
 
 **Außer dem Klassenbesten** hat niemand eine Eins bekommen.
 
@@ -52,19 +52,19 @@ _der Beste_ gehört zur n-Deklination
 
 ---
 
-**Warten auf + Dat**
+**warten auf + Dat**
 
 Wir **warten** schon eine halbe Stunde **auf dem Kellner**.
 
 ---
 
-**Zufolge + Dat**
+**zufolge + Dat**
 
 **Diesem Artikel zufolge** soll Schokolade sehr gesund sein.
 
 ---
 
-**Infolge + Gen**
+**infolge + Gen**
 
 **Infolge des Unfalls** konnte er nie wieder richtig laufen.
 
@@ -72,7 +72,7 @@ Wir **warten** schon eine halbe Stunde **auf dem Kellner**.
 
 ---
 
-**Ohne + Akk**
+**ohne + Akk**
 
 **Ohne einen Kaffee** am Morgen kann ich nicht denken.
 
@@ -80,13 +80,13 @@ Alle Hausbewohner konnten **ohne größere Verletzungen** das brennende Haus ver
 
 ---
 
-**Seit + Dat**
+**seit + Dat**
 
 Ich arbeite **seit einem Monat** bei einer neuen Firma.
 
 ---
 
-**Trotz + Gen**
+**trotz + Gen**
 
 Leider werde ich **trotz eines starken Kaffees** am Morgen nicht wach.
 
@@ -96,24 +96,24 @@ Leider werde ich **trotz eines starken Kaffees** am Morgen nicht wach.
 
 ---
 
-**Anlässlich (Event) + Gen**
+**anlässlich (Event) + Gen**
 
 **Anlässlich des Totentages** haben meine Familie und ich einen Altar aufgebaut.
 
 ---
 
-**Bei + Dat**
+**bei + Dat**
 
 **Bei einer Windgeschwindigkeit** von bis zu 145 km/h wurden zahlreiche Dächer abgedeckt.
 
 ---
 
-**Nach + Dat**
+**nach + Dat**
 
 Im Kreis Coesfeld ging ein Haus **nach einem Blitzeinschlag** in Flammen auf.
 
 ---
 
-**Binnen + Dat**
+**binnen + Dat**
 
 **Binnen kurzer Zeit** musste die Feuerwehr zu zahlreichen Einsätzen eilen.
