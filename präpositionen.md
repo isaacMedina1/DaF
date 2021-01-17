@@ -38,7 +38,7 @@ Unser Haus steht **unweit des alten Stadttors**.
 
 ---
 
-* Anstelle + Gen
+**Anstelle + Gen**
 
 **Anstelle des versprochenen Fahrrads** schenkten mir meine Eltern eine Puppe.
 
@@ -104,7 +104,7 @@ Leider werde ich **trotz eines starken Kaffees** am Morgen nicht wach.
 
 **Bei + Dat**
 
-Bei einer Windgeschwindigkeit von bis zu 145 km/h wurden zahlreiche Dächer abgedeckt.
+**Bei einer Windgeschwindigkeit** von bis zu 145 km/h wurden zahlreiche Dächer abgedeckt.
 
 ---
 
