@@ -39,3 +39,39 @@ Wofür soll ich mich eigentlich bei dir entschuldigen?
 **sich gewöhnen an**
 
 Ich kann mich hier in Deutschland einfach nicht an das Wechselhafte Wetter gewöhnen.
+
+**sich furchten vor**
+
+Wovor fürchtet sich Magdalena?
+
+**glauben an**
+
+Woran glauben viele Menschen?
+
+**helfen bei**
+
+Wobei soll ich ihm nicht helfen?
+
+**verlieben in**
+
+In wen ist Gerd verliebt?
+
+**schmecken nach**
+
+Wonach schmeckt das Essen?
+
+**kämpfen für**
+
+Man muss für mehr Gerechtigkeit kämpfen.
+
+**warten auf**
+
+Warum wartest du nicht auf deinen Bruder?
+
+**fragen nach**
+
+Ein Herr mit Hut fragt nach unserem Chef.
+
+**aufhören mit**
+
+Kannst du bitte mit dem Krach aufhören?
