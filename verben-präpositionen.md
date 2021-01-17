@@ -75,3 +75,53 @@ Ein Herr mit Hut fragt nach unserem Chef.
 **aufhören mit**
 
 Kannst du bitte mit dem Krach aufhören?
+
+**sich wenden an**
+
+In dringenden Fällen wenden Sie sich bitte an Herrn Dr. Zahnstein, den Sie unter folgender Rufnummer erreichen können: 01 23/77 48 39.
+
+**sich gewöhnen an**
+
+An das wechselhafte Wetter kann sich der afrikanische Student einfach nicht gewöhnen.
+
+**fliehen von**
+
+Die Bevölkerung in den Küstenregionen fliehen vor dem herannahenden Hurrikan.
+
+**sich wundern über**
+
+Über sein Angebot, sie zu heiraten, hat sie sich sehr gewundert.
+
+**sich wehrten gegen**
+
+Fast 80% aller Gewerkschaftsmitglieder wehrten sich gegen das Schlichtungsangebot.
+
+**verfügen über**
+
+Meine Nachbarn verfügen über ein Bruttodurchschnittseinkommen von etwa 40.000 Euro.
+
+**sich sorgen um**
+
+Man muss sich ernsthaft um die Zerstörung des Regenwalds sorgen.
+
+**riechen nach**
+
+In der Verkaufshalle hat es überall nach Fisch gerochen.
+
+**geraten in**
+
+Nach dem verschenkten Sieg ist die Mannschaft noch in höchste Abstiegsnöte geraten.
+
+**gelten als**
+
+Der verstorbene Professor galt bei vielen Kollegen als unverbesserlicher Besserwisser.
+
+**sich einigen auf**
+
+Die Kontrahenten konnten sich endlich auf einen Kompromiss einigen.
+
+**handeln mit**
+
+Die angeklagten Kriminellen sollen angeblich mit Waffen und Kokain gehandelt haben.
+
+

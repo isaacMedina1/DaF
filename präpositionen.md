@@ -68,11 +68,15 @@ Wir **warten** schon eine halbe Stunde **auf dem Kellner**.
 
 **Infolge des Unfalls** konnte er nie wieder richtig laufen.
 
+**Infolge des starken Regens** kam es vielerorts zu Überschwemmungen.
+
 ---
 
 **Ohne + Akk**
 
 **Ohne einen Kaffee** am Morgen kann ich nicht denken.
+
+Alle Hausbewohner konnten **ohne größere Verletzungen** das brennende Haus verlassen.
 
 ---
 
@@ -86,8 +90,30 @@ Ich arbeite **seit einem Monat** bei einer neuen Firma.
 
 Leider werde ich **trotz eines starken Kaffees** am Morgen nicht wach.
 
+**Trotz großer Sachschäden** kamen glücklicherweise keine Menschen ums Leben.
+
+**Trotz einer Unwetterwarnung** wurden verschiedene Freiluftveranstaltung nicht abgesagt.
+
 ---
 
 **Anlässlich (Event) + Gen**
 
 **Anlässlich des Totentages** haben meine Familie und ich einen Altar aufgebaut.
+
+---
+
+**Bei + Dat**
+
+Bei einer Windgeschwindigkeit von bis zu 145 km/h wurden zahlreiche Dächer abgedeckt.
+
+---
+
+**Nach + Dat**
+
+Im Kreis Coesfeld ging ein Haus **nach einem Blitzeinschlag** in Flammen auf.
+
+---
+
+**Binnen + Dat**
+
+**Binnen kurzer Zeit** musste die Feuerwehr zu zahlreichen Einsätzen eilen.
