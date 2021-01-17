@@ -68,6 +68,8 @@ Man muss für mehr Gerechtigkeit kämpfen.
 
 Warum wartest du nicht auf deinen Bruder?
 
+Wir warten schon eine halbe Stunde auf dem Kellner. (_sitzend_)
+
 **fragen nach**
 
 Ein Herr mit Hut fragt nach unserem Chef.
