@@ -1,6 +1,6 @@
 # Zertifikat B2 - Modul Schreiben Teil 2
 
-## E-Mail an Herrn Sattler
+## E-Mail an Ihre Chefin Frau Fischer
 
 Sie jobben in Ihrer Freizeit in einem Café. Da im nächsten Monat die Semesterferien zu Ende sind, können Sie nicht mehr jeden Tag zur Arbeit kommen. Schreiben Sie eine Nachricht an Ihre Chefin, Frau Fischer.
 
