@@ -77,7 +77,7 @@ Es ist notwendig, dass man ein sympathisch Foto auswählt.
 ## Hausaufgaben
 
 Aspekte Neu AB, Ü 2 + 3
-Aspekte Neu IT, Ü 12
+Aspekte Neu IT, Ü 11
 
 
 --------
