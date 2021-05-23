@@ -76,8 +76,71 @@ Es ist notwendig, dass man ein sympathisch Foto auswählt.
 
 ## Hausaufgaben
 
-Aspekte Neu AB, Ü 2 + 3
+Aspekte Neu AB M1 Ü2 + 3
 Aspekte Neu IT, Ü 11
 
+
+### AB M1 Ü2
+
+**Formen Sie die Sätze in einen dass-Satz oder Infinitivsatz um.**
+
+Personalchefs empfehlen den Bewerbern...
+
+1. das aufmerksame Lesen der Stellenausschreibung.
+
+  - (dass-Satz) ..., dass sie die Stellenausschreibung aufmerksam lesen.
+
+2. eine sorgfältige Anfertigung ihrer Bewerbung.
+
+  - (Infinitivsatz) ..., ihrer Bewerbung sorgfältig anzufertigen.
+
+3. Ehrlichkeit bei der Angabe ihres Werdegangs.
+
+  - (dass-Satz) ..., dass sie bei der Angabe ihres Werdegangs ehrlich sind.
+
+4. eine schlüssige Begründung von Richtungswechseln.
+
+  - (Infinitivsatz) ..., Richtungswechseln schlüssig zu begründen.
+
+5. eine geschickte Darstellung aller Berufserfahrungen.
+
+  - (Infinitivsatz) ..., alle Berufserfahrungen geschickt darzustellen.
+
+### AB M1 Ü3
+
+**Formen Sie die Sätze in einen Infinitivsatz um, idem Sie den dass-Satz zuerst ins Passiv setzen.**
+
+Der Bewerber...
+
+1. rechnet damit, dass der Personalchef _ihn_ zu seinem beruflichen Werdegang **befragt**.
+
+  - Der Bewerber rechnet damit, dass _er_ zu seinem beruflichen Werdegang **befragt wird**.
+
+  - Der Bewerber rechnet damit, zu seinem beruflichen Werdegang **befragt zu werden**.
+
+
+2. hofft, dass die Firma _ihn_ bald **einstellt**.
+
+  - Der Bewerber hofft, dass _er_ bald von der Firma **eingestellt wird**.
+
+  - Der Bewerber hofft, bald von der Firma **eingestellt zu werden**.
+
+3. verlässt sich darauf, dass der Personalchef _ihn_ nach dem Vorstellungsgespräch **informiert**.
+
+  - Der Bewerber verlässt sich darauf, dass _er_ vom Personalchef nach dem Vorstellungsgespräch **informiert wird**.
+
+  - Der Bewerber verlässt sich darauf, vom Personalchef nach dem Vorstellungsgespräch **informiert zu werden**.
+
+4. erwartet, dass man _ihn_ in seine neuen Aufgaben gut **einarbeitet**.
+
+  - Der Bewerber erwartet, dass _er_ in seine neuen Aufgaben gut **eingearbeitet wird**.
+
+  - Der Bewerber erwartet, in seine neuen Aufgaben gut **eingearbeitet zu werden**.
+
+5. kann davon ausgehen, dass die Firma _ihn_ am Anfang **unterstützt**.
+
+  - Der Bewerber kann davon ausgehen, dass _er_ von der Firma am Anfang **unterstützt wird**.
+
+  - Der Bewerber kann davon ausgehen, von der Firma am Anfang **unterstützt zu werden**.
 
 --------
