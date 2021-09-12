@@ -13,7 +13,7 @@ Beispiele:
 **Obwohl Ben häufig erkältet ist,** tut er nichts für sein Immunsystem. / 
 **Trotz häufigen Erkältungen** tut Ben nichts für sein Immunsystem.
 
-**Damit die Motivation steigt,** sollte man sich ab un zu belohnen. / 
+**Damit die Motivation steigt,** sollte man sich ab und zu belohnen. / 
 **Zur Steigerung der Motivation** sollte man sich ab und zu belohnen.
 
 **Der Abteilungsleiter hatte zwar einen leichten Herzinfarkt, aber** er arbeitet weiterhin rund um die Uhr. / 
